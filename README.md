@@ -1,2 +1,2 @@
 # site project
- A site project created during the course of Git and GitHub
+ A site project created during Git and GitHub course
